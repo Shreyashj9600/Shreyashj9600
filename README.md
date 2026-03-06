@@ -1,50 +1,76 @@
-
-<!---
-Shreyashj9600/Shreyashj9600 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋, I'm Shreyash Jadhav</h1>
-<h3 align="center">Full Stack MERN Developer | India 🇮🇳</h3>
+<h3 align="center">Full Stack MERN Developer | JavaScript Enthusiast | India 🇮🇳</h3>
 
 <p align="center">
-  I build modern web applications using the MERN stack and enjoy working on real-world development.
+Passionate about building modern, scalable, and user-friendly web applications using the MERN Stack.
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 About Me
 
-- Full Stack Developer with strong knowledge of **React, Node.js, Express, MongoDB**
-- Passionate about building scalable and user-friendly web applications
-- Comfortable with REST APIs, Authentication (JWT), and Database design
-- Open to **Full-Time Opportunities** and collaboration
+- 💻 Full Stack Developer specializing in **MERN Stack**
+- 🚀 Experienced in building **real-world web applications**
+- 🔐 Knowledge of **Authentication (JWT), REST APIs, and Database Design**
+- 🌱 Currently improving **System Design & Advanced Backend Development**
+- 📈 Always learning new technologies and improving coding skills
+- 💼 Open to **Full-Time Developer Opportunities**
 
 ---
 
-## 🛠️ Tech Skills
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,tailwind,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,tailwind,postman,vscode" />
 </p>
 
 ---
+
+## 📂 Featured Projects
+
+### 🤖 AI Virtual Assistant (MERN Stack)
+AI powered web assistant that can perform tasks like searching Google, playing YouTube videos, opening websites, and more.
+
+🔗 Live Demo  
+https://ai-virtual-assistant-mern-2.onrender.com
+
+💻 Tech Used  
+React • Node.js • Express • MongoDB • REST API
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shreyashj9600&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyashj9600&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyashj9600&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:connectshreyashj96@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/Shreyashj9600">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+
+<a href="mailto:connectshreyashj96@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/Shreyashj9600">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
 </p>
 
 ---
 
-📌 Feel free to connect with me for collaboration or opportunities.
+⭐ *Feel free to explore my repositories and connect with me for collaboration.*
